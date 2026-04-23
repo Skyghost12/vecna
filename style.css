@@ -69,4 +69,5 @@ header h1{
 /*  = = = = = = == = =  HERO SECTION = = = = = == = == = == == */
 .hero-section{
     padding: 10px;
+    background-color: #000;
 }
